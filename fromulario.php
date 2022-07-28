@@ -1,5 +1,7 @@
 <?php
 
-echo 'Hola mundo';
+echo '############';
+echo 'Hola mundo..';
+echo '############';
 
 ?>
